@@ -1,0 +1,5 @@
+.item-id span,
+.item-title span,
+.item-text span {
+    font: bold 16px "sans-serif";
+}
